@@ -1,6 +1,6 @@
 # Homebrew Tap for File Flex
 
-This is the official Homebrew tap for File Flex, a utility tool designed to .
+This is the official Homebrew tap for File Flex, a cross-platform tool designed to simplify file system operations, making it easy for users to manage files and directories.
 
 ## Installation
 
